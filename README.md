@@ -32,4 +32,4 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=101beardo" alt="101beardo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=101beardo&" alt="101beardo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=101beardo&layout=compact" alt="101beardo" /></p>
