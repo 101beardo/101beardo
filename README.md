@@ -30,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=101beardo&show_icons=true" alt="101beardo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=101beardo&show_icons=true&locale=en" alt="101beardo" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=101beardo&" alt="101beardo" /></p>
