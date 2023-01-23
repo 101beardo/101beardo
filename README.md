@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://101beardo.github.io/](https://101beardo.github.io/)
 
-- 💬 Ask me about **react, javascript, HTML, CSS, BootStrap, Chakra UI**
+- 💬 Ask me about **React, Javascript, HTML, CSS, BootStrap, Chakra UI, Node JS, Express, Tailwind and MongoDB**
 
 - 📫 How to reach me **101tash101@gmail.com**
 
