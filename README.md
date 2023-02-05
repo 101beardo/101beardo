@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_beardo__" target="blank"><img src="https://img.shields.io/twitter/follow/_beardo__?logo=twitter&style=for-the-badge" alt="_beardo__" /></a> </p>
 
-- 🌱 I’m currently learning **React Redux**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://101beardo.github.io/](https://101beardo.github.io/)
 
